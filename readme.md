@@ -10,7 +10,7 @@ mkdir  easyswoole (名字自己起)
 
 ```
 
-## 二、复制解压后的easyswoole_docker文件夹重命名为docker
+## 二、将解压后的easyswoole_docker文件夹 重命名为 docker
 
 ```bash
 
