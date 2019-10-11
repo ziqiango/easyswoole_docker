@@ -42,7 +42,7 @@ docker/container.sh
 
 ### 访问 测试
 
-wget http://127.0.0.1:9501
+curl http://127.0.0.1:9501
 
 ### 2. 重启
 
