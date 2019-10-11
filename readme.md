@@ -1,6 +1,7 @@
 # 使用步骤
 
 
+
 ## 一、创建项目目录
 
 ```bash
@@ -9,7 +10,16 @@ mkdir  easyswoole (名字自己起)
 
 ```
 
-## 二、复制解压后的docker文件夹 到 项目目录
+## 二、复制解压后的easyswoole_docker文件夹重命名为docker
+
+```bash
+
+mv easyswoole_docker docker
+
+
+```
+
+## 三、移动 docker文件夹 到 项目目录
 
 ```bash
 
