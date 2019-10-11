@@ -27,7 +27,7 @@ mv docker easyswoole
 
 ```
 
-## 三、第一次 进行docker build
+## 四、第一次 进行docker build
 
 ```bash
 
@@ -40,7 +40,7 @@ docker build -t zhuzq:v3.3.0  .
 ```
 
 
-## 四、启动  运行docker/container.sh 确保有运行权限
+## 五、启动  运行docker/container.sh 确保有运行权限
 
 ```
 
